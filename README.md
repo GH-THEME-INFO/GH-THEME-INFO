@@ -1,6 +1,6 @@
 <div align="center">
 
-$\color{#ff1700}\Large{\textsf{STOP!}}$ Before continuing, please read my DNI criteria [HERE](https://graverobbedd.ju.mp/#dni). If you are included in the Github in any way, please do not request a Github. I will report any github that goes against this and lies.
+$\color{#ff1700}\Large{\textsf{STOP!}}$ Before continuing, please read my DNI criteria [HERE](https://githubdni.drr.ac/). If you are included in the Github in any way, please do not request a Github. I will report any github that goes against this and lies.
 <br><br> <hr>
 
   <table border="0" align="left">
@@ -22,3 +22,19 @@ $\color{#ff1700}\Large{\textsf{STOP!}}$ Before continuing, please read my DNI cr
         <br>
       </th>
   </table>
+
+<hr>
+
+What should I be ready for?
+
+<details>
+  <summary>Messaging</summary>
+  Please WHISPER me on Pony Town! From there, please tell me what theme you want, and I'll accept or deny it! If I accept, please provide your Discord @, so I can send a request. From there, I'll ask questions about the layout!
+
+  NOTE: I WILL ONLY BE WORKING WITH DISCORD.
+</details>
+
+<details>
+  <summary>Layout</summary>
+  
+</details>
