@@ -39,6 +39,8 @@ What should I be ready for?
   Before I code the Github, I ask that you make a simple layout sketch! (Sounds scary, it isnt!!)<br> Simply sketch out where you want things to be placed, if you want a container/border in certain places, where images should go, etc etc... <br> Examples provided below! <br><br> All examples have links credited back to original githubs. I used these concepts to make their githubs!
 
 <br>
+NOTE: When designing a layout, please don't try to copy any one of them specifically! Unless its super generic!
+<br><br>
 
 you can also go [HERE](https://github.com/stars/Vexuliii/lists/my-stuff) and [HERE](https://github.com/stars/Vexuliii/lists/repositories-ive-made-4-ppl) for more ideas! These are all githubs that I have made
 
