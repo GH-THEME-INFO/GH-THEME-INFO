@@ -8,7 +8,7 @@ $\color{#ff1700}\Large{\textsf{STOP!}}$ Before continuing, please read my DNI cr
       <th>
            <br>  
         $\color{#ff1700}\Large{\textsf{BEFORE YOU ASK,}}$<br>
-        Please do NOT initiate a conversation with me if you <br> are going to go afk!I do understand things happen,  <br>but during the planning process do<br> try to not leave me hanging!
+        Please do NOT initiate a conversation with me if you <br> are going to go afk! I do understand things happen,  <br>but during the planning process do<br> try to not leave me hanging!
         <br>
       </th>
   </table>
