@@ -36,5 +36,22 @@ What should I be ready for?
 
 <details>
   <summary>Layout</summary>
+  Before I code the Github, I ask that you make a simple layout sketch! (Sounds scary, it isnt!!)<br> Simply sketch out where you want things to be placed, if you want a container/border in certain places, where images should go, etc etc... <br> Examples provided below! <br><br> All examples have links credited back to original githubs. I used these concepts to make their githubs!
+
+<a href="https://github.com/SCREAM-4-ME"><img src="https://64.media.tumblr.com/39de5dcc78c2b2c84aa008dcdffc8c07/b529dddfc7f85b94-22/s1280x1920/4381cfce7c4a125676fd45b47df04f92ec1fed88.pnj" width="400"  title="SCREAM-4-ME"></a>
+ <a href="https://github.com/clownfoe"> <img src="https://64.media.tumblr.com/beb3bb91144822e225c5cc6698845635/b529dddfc7f85b94-f6/s2048x3072/58fe41304978050b59dec54a1d099d7a2de0eb8d.jpg" width="250"  title="Clownfoe"></a>
+ <a href="https://github.com/1969bootboy"><img src="https://64.media.tumblr.com/8963492d29d3b6a79d67d4768791ad5d/b529dddfc7f85b94-50/s1280x1920/8a065e7b71b195f54c2e87735e86ba3fb60820bc.pnj" title="1969bootboy" width="250">
+ <a href="https://github.com/Vexuliii"><img src="https://64.media.tumblr.com/0aec21f5485c14d8e26d1cbe88fe9c28/b529dddfc7f85b94-5e/s2048x3072/3492a0c3aaf3c3c57dbe23d996315e47ea41a0fd.pnj" title="i made this there is no link LOL!!!" width="250">
+  <br>
   
 </details>
+
+
+  <details>
+  <summary>Text and Images</summary>
+It would be VERY much appreciated if you had the pictures YOU want to use already! That way theres no wait time during the planning stage! <br> Please try to make the concept sketch image size soomewhat close to the images you'll actually be using <br><br> TEXT COLORS!!!! Please provide either specific hex codes, color palette, or if I should match text color to images!
+</details>
+
+<hr>
+
+
