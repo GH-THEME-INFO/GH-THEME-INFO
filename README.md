@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GH-THEME-INFO/GH-THEME-INFO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$\color{#ff1700}\Large{\textsf{STOP!}}$ Before continuing, please read my DNI criteria [HERE](https://graverobbedd.ju.mp/#dni). If you are included in the Github in any way, please do not request a Github. I will report any github that goes against this and lies.
+<br><br> <hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <table border="0" align="left">
+    <tr align="center"></tr>
+      <th>
+           <br>  
+        $\color{#ff1700}\Large{\textsf{BEFORE YOU ASK,}}$<br>
+        Please do NOT initiate a conversation with me if you <br> are going to go afk!I do understand things happen,  <br>but during the planning process do<br> try to not leave me hanging!
+        <br>
+      </th>
+  </table>
+  
+  <table border="0" align="right">
+    <tr align="center"></tr>
+      <th>
+           <br>  
+        $\color{#ff1700}\Large{\textsf{HOW DO I ASK?}}$<br>
+        Simply WHISPER me in pony town! This Github will <br> only be linked to my account when I'm  <br>taking requests. <br> What you should have for requests listed below!
+        <br>
+      </th>
+  </table>
